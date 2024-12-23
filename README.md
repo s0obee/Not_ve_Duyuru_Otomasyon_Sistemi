@@ -1,6 +1,7 @@
 # Not_ve_Duyuru_Otomasyon_Sistemi
  CRUD işlemleri ile oluşturulmuş basitleştirilmiş bir öğrenci otomasyon sistemi.
  ..:
+ 
 Form Anasayfa ..: 
 Uygulamayı çalıştırdğımızda il karşımıza gelen kısım olan anasayfa, Öğretmenlerin yazdıkları duyuruların yansıtıldığı ve LogIn kısmına atan butonların bulunduğu sayfa ..
 
